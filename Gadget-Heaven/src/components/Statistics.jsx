@@ -1,9 +1,13 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const Statistics = () => {
     return (
         <div>
-            statistics
+             <Helmet>
+                <title>Gadget Heaven | Statistics</title>
+            </Helmet>
+            
         </div>
     );
 };

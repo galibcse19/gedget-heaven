@@ -1,9 +1,12 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const About = () => {
     return (
         <div>
-            about
+             <Helmet>
+                <title>Gadget Heaven | About</title>
+            </Helmet>
         </div>
     );
 };

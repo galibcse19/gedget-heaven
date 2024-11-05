@@ -2,7 +2,7 @@
     {
       "product_id": "1",
       "product_title": "Smartphone X100",
-      "product_image": "https://example.com/images/smartphone-x100.jpg",
+      "product_image": "https://i.ibb.co.com/j3RBFF2/mobile.jpg",
       "category": "mobile",
       "price": 699,
       "description": "A high-performance smartphone with a powerful processor and camera.",
@@ -13,19 +13,19 @@
     {
       "product_id": "2",
       "product_title": "Gaming Laptop G15",
-      "product_image": "https://example.com/images/gaming-laptop-g15.jpg",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
       "category": "laptop",
       "price": 1200,
       "description": "Gaming laptop with high-end graphics and refresh rate for smooth gameplay.",
       "specification": ["15.6-inch FHD display", "16GB RAM", "512GB SSD", "RTX 3060 GPU", "144Hz refresh rate"],
-      "availability": true,
+      "availability": false,
       "rating": 4
     },
     {
       "product_id": "3",
       "product_title": "Apple iPhone 14",
-      "product_image": "https://example.com/images/iphone-14.jpg",
-      "category": "iPhone",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "category": "laptop",
       "price": 999,
       "description": "Latest iPhone model with exceptional camera quality and performance.",
       "specification": ["6.1-inch display", "256GB storage", "12MP camera", "5G support", "3200mAh battery"],
@@ -35,8 +35,8 @@
     {
       "product_id": "4",
       "product_title": "Smart Watch S3",
-      "product_image": "https://example.com/images/smart-watch-s3.jpg",
-      "category": "smart watch",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "category": "laptop",
       "price": 199,
       "description": "Smartwatch with health tracking features and water resistance.",
       "specification": ["1.4-inch display", "Heart rate monitor", "GPS", "Water-resistant"],
@@ -46,7 +46,7 @@
     {
       "product_id": "5",
       "product_title": "MacBook Pro 14",
-      "product_image": "https://example.com/images/macbook-pro-14.jpg",
+      "product_image": "https://i.ibb.co.com/6ssJMP4/macbook.jpg",
       "category": "macBook",
       "price": 2400,
       "description": "High-end MacBook Pro with M1 chip for ultimate performance.",
@@ -57,7 +57,7 @@
     {
       "product_id": "6",
       "product_title": "Android Phone Z50",
-      "product_image": "https://example.com/images/android-phone-z50.jpg",
+      "product_image": "https://i.ibb.co.com/j3RBFF2/mobile.jpg",
       "category": "mobile",
       "price": 299,
       "description": "Budget-friendly Android smartphone with solid performance.",
@@ -68,7 +68,7 @@
     {
       "product_id": "7",
       "product_title": "Apple iPhone SE",
-      "product_image": "https://example.com/images/iphone-se.jpg",
+      "product_image": "https://i.ibb.co.com/smcpVrf/iPhone.jpg",
       "category": "iPhone",
       "price": 429,
       "description": "Affordable iPhone with classic design and reliable performance.",
@@ -79,7 +79,7 @@
     {
       "product_id": "8",
       "product_title": "Laptop UltraBook Pro",
-      "product_image": "https://example.com/images/ultrabook-pro.jpg",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
       "category": "laptop",
       "price": 1400,
       "description": "Lightweight ultrabook with impressive battery life and speed.",
@@ -90,7 +90,7 @@
     {
       "product_id": "9",
       "product_title": "MacBook Air 13",
-      "product_image": "https://example.com/images/macbook-air-13.jpg",
+      "product_image": "https://i.ibb.co.com/6ssJMP4/macbook.jpg",
       "category": "macBook",
       "price": 999,
       "description": "Portable and efficient MacBook with a sharp Retina display.",
@@ -101,7 +101,7 @@
     {
       "product_id": "10",
       "product_title": "Smart Watch Fit",
-      "product_image": "https://example.com/images/smart-watch-fit.jpg",
+      "product_image": "https://i.ibb.co.com/Tm58Gpq/smartwatch.jpg",
       "category": "smart watch",
       "price": 159,
       "description": "Fitness smartwatch with tracking and water resistance.",
@@ -112,8 +112,8 @@
     {
       "product_id": "11",
       "product_title": "Mobile Phone A10",
-      "product_image": "https://example.com/images/mobile-phone-a10.jpg",
-      "category": "mobile",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "category": "laptop",
       "price": 199,
       "description": "Affordable smartphone with essential features.",
       "specification": ["5.5-inch display", "32GB storage", "8MP camera", "4G enabled"],
@@ -123,7 +123,7 @@
     {
       "product_id": "12",
       "product_title": "Gaming Laptop Alpha",
-      "product_image": "https://example.com/images/gaming-laptop-alpha.jpg",
+      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
       "category": "laptop",
       "price": 1300,
       "description": "High-performance gaming laptop with great visuals and speed.",
@@ -134,7 +134,7 @@
     {
       "product_id": "13",
       "product_title": "Apple iPhone XR",
-      "product_image": "https://example.com/images/iphone-xr.jpg",
+      "product_image": "https://i.ibb.co.com/smcpVrf/iPhone.jpg",
       "category": "iPhone",
       "price": 599,
       "description": "Reliable and powerful iPhone with high performance.",
@@ -145,7 +145,7 @@
     {
       "product_id": "14",
       "product_title": "MacBook Pro 16",
-      "product_image": "https://example.com/images/macbook-pro-16.jpg",
+      "product_image": "https://i.ibb.co.com/6ssJMP4/macbook.jpg",
       "category": "macBook",
       "price": 2500,
       "description": "Top-tier MacBook with large screen and performance features.",
@@ -156,7 +156,7 @@
     {
       "product_id": "15",
       "product_title": "Smartphone Z6",
-      "product_image": "https://example.com/images/smartphone-z6.jpg",
+      "product_image": "https://i.ibb.co.com/j3RBFF2/mobile.jpg",
       "category": "mobile",
       "price": 399,
       "description": "Mid-range smartphone with decent camera and display.",
