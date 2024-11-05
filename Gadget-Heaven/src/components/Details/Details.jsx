@@ -10,7 +10,9 @@ const Details = () => {
     const { data } = location.state || {};
 
     const { addToCart } = useContext(authContext);
-    const {addToWishlist} = useContext(authContext);
+    const {addToWishlist,wishlist} = useContext(authContext);
+
+    const isItemInWishlist = wishlist.find(item => item.product_id === data.product_id);
 
     const handleAddToCart = (data) => {
         addToCart(data);
@@ -18,8 +20,10 @@ const Details = () => {
     
     };
     const handleAddToWishlist = (data) =>{
-        addToWishlist(data);
-        toast.success('Item added to Wish List',{position: "top-center"})
+        if(!isItemInWishlist){
+            addToWishlist(data);
+            toast.success('Item added to Wish List',{position: "top-center"})
+        }
     }
 
     return (
@@ -66,7 +70,7 @@ const Details = () => {
                     </div>
                     <div className='flex items-center mt-2'>
                         <button  onClick={()=>handleAddToCart(data)} className='flex items-center text-white bg-purple-500 py-3 px-4 border rounded-full font-bold hover:bg-white hover:text-purple-500 hover:border-purple-500'>Add To Card <span className='ml-2'><FiShoppingCart /></span> </button>
-                        <button onClick={()=>handleAddToWishlist(data)} className='ml-2 border rounded-full p-4 hover:bg-white hover:text-purple-500 hover:border-purple-500'><FaRegHeart /></button>
+                        <button disabled={isItemInWishlist} onClick={()=>handleAddToWishlist(data)} className='ml-2 border rounded-full p-4 hover:bg-white hover:text-purple-500 hover:border-purple-500'><FaRegHeart /></button>
                     </div>
                 </div>
             </div>

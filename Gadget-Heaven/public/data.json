@@ -13,7 +13,7 @@
     {
       "product_id": "2",
       "product_title": "Gaming Laptop G15",
-      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "product_image": "https://i.ibb.co.com/ZBdMG0L/laptop2.jpg",
       "category": "laptop",
       "price": 1200,
       "description": "Gaming laptop with high-end graphics and refresh rate for smooth gameplay.",
@@ -24,7 +24,7 @@
     {
       "product_id": "3",
       "product_title": "Apple iPhone 14",
-      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "product_image": "https://i.ibb.co.com/st4jmQ7/laptop3.jpg",
       "category": "laptop",
       "price": 999,
       "description": "Latest iPhone model with exceptional camera quality and performance.",
@@ -46,7 +46,7 @@
     {
       "product_id": "5",
       "product_title": "MacBook Pro 14",
-      "product_image": "https://i.ibb.co.com/6ssJMP4/macbook.jpg",
+      "product_image": "https://i.ibb.co.com/ZmSYf33/macbook2.jpg",
       "category": "macBook",
       "price": 2400,
       "description": "High-end MacBook Pro with M1 chip for ultimate performance.",
@@ -57,7 +57,7 @@
     {
       "product_id": "6",
       "product_title": "Android Phone Z50",
-      "product_image": "https://i.ibb.co.com/j3RBFF2/mobile.jpg",
+      "product_image": "https://i.ibb.co.com/gmT24H3/mobile2.jpg",
       "category": "mobile",
       "price": 299,
       "description": "Budget-friendly Android smartphone with solid performance.",
@@ -79,7 +79,7 @@
     {
       "product_id": "8",
       "product_title": "Laptop UltraBook Pro",
-      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "product_image": "https://i.ibb.co.com/ZBdMG0L/laptop2.jpg",
       "category": "laptop",
       "price": 1400,
       "description": "Lightweight ultrabook with impressive battery life and speed.",
@@ -112,7 +112,7 @@
     {
       "product_id": "11",
       "product_title": "Mobile Phone A10",
-      "product_image": "https://i.ibb.co.com/SQp41tQ/Laptop.jpg",
+      "product_image": "https://i.ibb.co.com/st4jmQ7/laptop3.jpg",
       "category": "laptop",
       "price": 199,
       "description": "Affordable smartphone with essential features.",
@@ -134,7 +134,7 @@
     {
       "product_id": "13",
       "product_title": "Apple iPhone XR",
-      "product_image": "https://i.ibb.co.com/smcpVrf/iPhone.jpg",
+      "product_image": "https://i.ibb.co.com/XJCL3b6/iphone2.jpg",
       "category": "iPhone",
       "price": 599,
       "description": "Reliable and powerful iPhone with high performance.",
@@ -145,7 +145,7 @@
     {
       "product_id": "14",
       "product_title": "MacBook Pro 16",
-      "product_image": "https://i.ibb.co.com/6ssJMP4/macbook.jpg",
+      "product_image": "https://i.ibb.co.com/ZmSYf33/macbook2.jpg",
       "category": "macBook",
       "price": 2500,
       "description": "Top-tier MacBook with large screen and performance features.",
